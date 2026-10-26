@@ -1,0 +1,17 @@
+# Helper scripts (not part of the submission)
+extract_text.py
+redact_pdf.py
+
+# Original PDFs with inconsistent names (kept locally, organized copies in reports/)
+BV_ibm.pdf
+Deustch_ibm.pdf
+Deutsch_Jozsa_ibm.pdf
+Grover's_ibm.pdf
+Shor's_ibm.pdf
+Simons_ibm.pdf
+
+# Original unredacted assignment (kept locally, redacted copy published as Assignment.pdf)
+Assignment_original.pdf
+
+# Redacted intermediate file
+Assignment_public.pdf
