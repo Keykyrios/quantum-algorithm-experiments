@@ -8,7 +8,7 @@ This repository contains **reports and execution evidence only**, not source cod
 
 ### Main report
 
-[`Assignment.pdf`](Assignment.pdf) — The full lab report covering all six algorithms:
+[`Quantum_Algorithms_Simulation_and_IBM_Hardware_Execution.pdf`](Quantum_Algorithms_Simulation_and_IBM_Hardware_Execution.pdf) — The full lab report covering all six algorithms:
 
 | Algorithm | Contents |
 |---|---|
